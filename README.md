@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivkumar155
-- 👀 I’m interested in competitive coding,adroid development
+- 👀 I’m interested in competitive coding, Android development
 - 🌱 I’m currently learning C,C++,JAVA,JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - you can mail me at given email address 
