@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Shivkumar155
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and NodeJS
 
 
 
